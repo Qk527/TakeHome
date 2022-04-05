@@ -1,2 +1,2 @@
 # TakeHome
-Technical challenge to FLigoo company.
+Technical challenge to Fligoo company.
